@@ -12,7 +12,7 @@ sites:
     url: https://betmaster.$MAIN_DOMAIN
   - name: diyetisyen
     url: $DIYETISYEN_DOMAIN
-  - name: TCP ping
+  - name: Server TCP Status
     url: $MAIN_IP
 
 status-website:
