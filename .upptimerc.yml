@@ -13,9 +13,9 @@ sites:
   - name: diyetisyen
     url: $DIYETISYEN_DOMAIN
   - name: Minio
-    url: https://minio.$MAIN_DOMAIN
+    url: https://minio.$MAIN_DOMAIN/minio/login
   - name: func
-    url: https://func.$MAIN_DOMAIN
+    url: https://func.$MAIN_DOMAIN/ui
   - name: portainer
     url: https://portainer.$MAIN_DOMAIN
  
