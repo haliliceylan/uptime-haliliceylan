@@ -4,7 +4,7 @@
     "url": "https://abatir.$MAIN_DOMAIN",
     "icon": "https://favicons.githubusercontent.com/abatir.",
     "slug": "abatir",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 497,
     "timeDay": 570,
     "timeWeek": 452,
-    "timeMonth": 497,
+    "timeMonth": 512,
     "timeYear": 497,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 451,
     "timeDay": 553,
     "timeWeek": 401,
-    "timeMonth": 451,
+    "timeMonth": 465,
     "timeYear": 451,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 712,
     "timeDay": 894,
     "timeWeek": 705,
-    "timeMonth": 712,
+    "timeMonth": 737,
     "timeYear": 712,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 556,
     "timeDay": 642,
     "timeWeek": 515,
-    "timeMonth": 556,
+    "timeMonth": 562,
     "timeYear": 556,
     "dailyMinutesDown": {}
   },
