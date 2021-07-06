@@ -112,17 +112,17 @@
     "url": "https://portainer.$MAIN_DOMAIN",
     "icon": "https://favicons.githubusercontent.com/portainer.",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 668,
-    "timeWeek": 613,
-    "timeMonth": 583,
-    "timeYear": 570,
+    "time": 568,
+    "timeDay": 528,
+    "timeWeek": 585,
+    "timeMonth": 577,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   }
 ]
