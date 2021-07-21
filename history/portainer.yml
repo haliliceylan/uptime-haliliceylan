@@ -1,7 +1,7 @@
 url: https://portainer.$MAIN_DOMAIN
 status: up
 code: 200
-responseTime: 711
-lastUpdated: 2021-07-20T23:04:40.676Z
+responseTime: 405
+lastUpdated: 2021-07-21T23:04:33.800Z
 startTime: Sun Apr 25 2021 21:47:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
