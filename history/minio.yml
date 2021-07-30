@@ -1,7 +1,7 @@
 url: https://minio.$MAIN_DOMAIN/minio/login
 status: down
 code: 403
-responseTime: 538
-lastUpdated: 2021-07-29T23:04:38.393Z
+responseTime: 304
+lastUpdated: 2021-07-30T23:04:34.209Z
 startTime: Sun Apr 25 2021 21:47:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
