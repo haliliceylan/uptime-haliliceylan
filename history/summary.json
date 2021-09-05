@@ -40,7 +40,7 @@
     "url": "https://betmaster.$MAIN_DOMAIN",
     "icon": "https://favicons.githubusercontent.com/betmaster.",
     "slug": "betmaster",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 869,
     "timeDay": 560,
-    "timeWeek": 607,
+    "timeWeek": 612,
     "timeMonth": 1340,
     "timeYear": 869,
     "dailyMinutesDown": {}
